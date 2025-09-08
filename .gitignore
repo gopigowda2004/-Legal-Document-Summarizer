@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Envs
+.env
+venv/
+venv*/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data examples are fine to keep

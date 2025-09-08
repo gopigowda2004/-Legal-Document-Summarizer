@@ -1,0 +1,53 @@
+MASTER SERVICES AGREEMENT
+
+Effective Date: January 1, 2025
+
+CLIENT: Orion Retail Corp., with offices at 100 Lakeside Drive, Austin, TX 78701 ("Client")
+
+VENDOR: NovaSoft Solutions Inc., with offices at 42 Riverside Ave, Boston, MA 02114 ("Vendor")
+
+1. SERVICES
+Vendor will provide software implementation, integration, and support services as described in Statements of Work (each an "SOW").
+
+2. TERM
+The term of this Agreement shall be three (3) years from the Effective Date, unless terminated earlier under Section 10.
+
+3. FEES AND PAYMENT
+3.1 Fees are set forth in each SOW and invoices are due net thirty (30) days from receipt.
+3.2 Late payments accrue interest at 1.5% per month or the maximum allowed by law, whichever is lower.
+
+4. CHANGE MANAGEMENT
+Changes to scope will be documented via a change order signed by both parties.
+
+5. WARRANTIES
+Vendor warrants that services will be performed in a professional and workmanlike manner consistent with industry standards. EXCEPT AS EXPRESSLY SET FORTH HEREIN, NO OTHER WARRANTIES APPLY.
+
+6. CONFIDENTIALITY
+Each party agrees to protect the other’s Confidential Information for five (5) years after disclosure.
+
+7. INTELLECTUAL PROPERTY
+Unless otherwise stated in an SOW, all deliverables created specifically for Client shall be deemed "Work Product" and owned by Client upon payment in full. Vendor retains all pre-existing IP and tools.
+
+8. LIMITATION OF LIABILITY
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES. TOTAL LIABILITY SHALL NOT EXCEED THE FEES PAID BY CLIENT IN THE SIX (6) MONTHS PRIOR TO THE CLAIM.
+
+9. INSURANCE
+Vendor will maintain commercially reasonable insurance, including general liability and professional liability.
+
+10. TERMINATION
+Either party may terminate for material breach, after thirty (30) days’ written notice and failure to cure. Client may terminate for convenience upon sixty (60) days’ written notice.
+
+11. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement is governed by the laws of Texas. Disputes will be resolved by binding arbitration in Austin, Texas.
+
+IN WITNESS WHEREOF, the parties have executed this Master Services Agreement as of the Effective Date.
+
+CLIENT: Orion Retail Corp.
+By: ________________________
+Name:
+Title:
+
+VENDOR: NovaSoft Solutions Inc.
+By: ________________________
+Name:
+Title:

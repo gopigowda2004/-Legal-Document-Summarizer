@@ -1,0 +1,46 @@
+SERVICE LEVEL AGREEMENT
+
+Effective Date: April 1, 2025
+
+PROVIDER: CloudWare Hosting Co., 200 Skyline Blvd, Seattle, WA 98109
+
+CUSTOMER: GreenFields Agri LLP, 15 Meadow Lane, Des Moines, IA 50309
+
+1. SERVICE AVAILABILITY
+Provider will maintain 99.9% monthly uptime, excluding scheduled maintenance not to exceed four (4) hours per month.
+
+2. RESPONSE AND RESOLUTION TIMES
+- Critical (P1): Response within 1 hour; Resolution within 4 hours
+- High (P2): Response within 4 hours; Resolution within 1 business day
+- Medium (P3): Response within 1 business day; Resolution within 3 business days
+- Low (P4): Response within 2 business days; Resolution within 5 business days
+
+3. MAINTENANCE WINDOWS
+Provider will notify Customer at least 48 hours prior to planned maintenance.
+
+4. CREDITS
+If monthly uptime falls below the SLA, Customer is eligible for service credits equal to 10% of the monthly fee for each 0.1% below 99.9%, capped at 50% of the monthly fee.
+
+5. SUPPORT
+Support is available 24/7 via email and ticketing system. Phone support during business hours 9am–6pm PT.
+
+6. SECURITY
+Provider will maintain industry-standard security controls, including encryption in transit and at rest, role-based access, and regular vulnerability scanning.
+
+7. TERM AND TERMINATION
+This SLA remains effective for the duration of the Subscription Agreement. Either party may terminate upon thirty (30) days’ written notice for material breach.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of Washington State.
+
+AUTHORIZED SIGNATURES
+
+PROVIDER: CloudWare Hosting Co.
+By: ________________________
+Name:
+Title:
+
+CUSTOMER: GreenFields Agri LLP
+By: ________________________
+Name:
+Title:

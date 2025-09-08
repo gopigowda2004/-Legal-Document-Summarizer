@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: legal-document-summarizer
+    env: docker
+    plan: free
+    autoDeploy: true
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: GOOGLE_API_KEY
+        sync: false
+    healthCheckPath: /_stcore/health

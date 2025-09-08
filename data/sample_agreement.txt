@@ -1,0 +1,43 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (the "Agreement") is entered into as of [DATE] by and between:
+
+LICENSOR: [Company Name], a corporation organized under the laws of [State/Country], with its principal place of business at [Address] ("Licensor")
+
+and
+
+LICENSEE: [Customer Name], with its principal place of business at [Address] ("Licensee")
+
+1. LICENSE GRANT
+1.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the software product (the "Software") for its internal business purposes.
+
+2. TERM AND TERMINATION
+2.1 This Agreement shall commence on the Effective Date and continue for a period of one (1) year, unless terminated earlier pursuant to the terms hereof.
+2.2 Either party may terminate this Agreement upon thirty (30) days written notice to the other party.
+
+3. FEES AND PAYMENT
+3.1 Licensee shall pay Licensor a license fee of $[Amount] within 30 days of the Effective Date.
+3.2 All fees are non-refundable and exclusive of applicable taxes.
+
+4. CONFIDENTIALITY
+4.1 Each party agrees to maintain the confidentiality of any proprietary information received from the other party.
+4.2 This obligation of confidentiality shall survive the termination of this Agreement for a period of five (5) years.
+
+5. WARRANTY AND DISCLAIMER
+5.1 Licensor warrants that it has the right to license the Software to Licensee.
+5.2 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+6. LIMITATION OF LIABILITY
+6.1 IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+LICENSOR: [Company Name]
+By: ________________________
+Name:
+Title:
+
+LICENSEE: [Customer Name]
+By: ________________________
+Name:
+Title:

@@ -1,0 +1,41 @@
+NON-DISCLOSURE AGREEMENT
+
+Effective Date: March 15, 2025
+
+PARTY A: Alpha Tech Ltd., a corporation organized under the laws of Delaware, with its principal place of business at 1200 Market Street, Wilmington, DE 19801
+
+PARTY B: Beta Innovations LLC, a limited liability company organized under the laws of California, with its principal place of business at 500 Mission Street, San Francisco, CA 94105
+
+1. PURPOSE
+The parties intend to explore a potential business relationship concerning AI research and development (the "Purpose"). In connection with the Purpose, each party may disclose certain confidential and proprietary information ("Confidential Information").
+
+2. CONFIDENTIALITY OBLIGATIONS
+2.1 Each party agrees to keep Confidential Information in strict confidence and use it solely for the Purpose.
+2.2 Confidential Information shall not be disclosed to any third party except to employees, contractors, or advisors who have a need to know and are bound by confidentiality obligations at least as protective as those herein.
+
+3. EXCLUSIONS
+Confidential Information does not include information that is (a) publicly available through no fault of the receiving party; (b) independently developed without use of the disclosing party’s Confidential Information; or (c) obtained from a third party without breach of any obligation of confidentiality.
+
+4. TERM AND TERMINATION
+This Agreement commences on the Effective Date and remains in effect for two (2) years, unless terminated earlier by either party upon thirty (30) days' written notice.
+
+5. RETURN/DESTRUCTION
+Upon written request, the receiving party shall promptly return or destroy all materials containing Confidential Information.
+
+6. REMEDIES
+The parties acknowledge that breach may cause irreparable harm. In addition to injunctive relief, the disclosing party may recover damages, including liquidated damages of $1,000 where actual damages are difficult to ascertain.
+
+7. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of New York, without regard to its conflict of law rules.
+
+IN WITNESS WHEREOF, the parties have executed this Non-Disclosure Agreement as of the Effective Date.
+
+PARTY A: Alpha Tech Ltd.
+By: ________________________
+Name: 
+Title: 
+
+PARTY B: Beta Innovations LLC
+By: ________________________
+Name: 
+Title: 
